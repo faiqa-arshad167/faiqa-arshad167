@@ -52,5 +52,3 @@ Experienced in **AI integrations, API development, and cloud deployment**.
 📧 Email: faiqaarshad563@gmail.com  
 
 ---
-
-⭐️ From Faiqa
