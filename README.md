@@ -1,138 +1,161 @@
 <h1 align="center">Hi there, I'm Faiqa 👋</h1>
 
 <h3 align="center">
-Software Engineer | AI-Powered SaaS Builder | Full Stack & Generative AI Engineer
+Software Engineer | Full Stack Developer | AI-Powered SaaS Builder
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-Software Engineer focused on building **scalable AI-powered SaaS applications** and production-ready web platforms.
+Software Engineer focused on building **scalable web applications and AI-powered SaaS products**.
 
-Experienced in designing and developing full-stack applications using modern technologies including **React, Next.js, Node.js, Python, and FastAPI**.
+Experienced in developing production-ready applications using **React, Next.js, Node.js, Python, and FastAPI**.
 
-Currently focusing on **Generative AI, LLM applications, RAG systems, and AI automation** to build intelligent solutions powered by **OpenAI, Google Gemini, and AI agent workflows**.
+I specialize in full-stack development, backend architecture, API development, cloud deployment, and integrating AI capabilities into modern software solutions.
 
-I enjoy transforming ideas into reliable software products by combining:
-- Full-stack engineering
-- AI integrations
-- Backend architecture
-- Cloud deployment
-- Automation workflows
+Currently exploring **Generative AI, LLM applications, RAG systems, and AI automation** to build smarter and more efficient products.
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Skills & Technologies
 
-### Frontend Development
+## 💻 Frontend Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+**Languages**
+- JavaScript
+- TypeScript
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+**Frameworks & Libraries**
+- React.js
+- Next.js
+- Redux
+- Tailwind CSS
+- Shadcn UI
+- Material UI
 
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?style=for-the-badge&logo=tailwindcss)
-
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge)
-
----
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
-
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase)
 
 ---
 
-## 🤖 Generative AI & AI Engineering
+## ⚙️ Backend Development
 
-Building AI-powered applications using:
+**Languages & Frameworks**
+- Node.js
+- Express.js
+- Python
+- FastAPI
 
-- LLM application development
-- Retrieval-Augmented Generation (RAG) systems
-- AI automation workflows
-- AI agents and intelligent assistants
-- Prompt engineering
-- AI API integrations
+**Backend Concepts**
+- REST API Development
+- API Integrations
+- Authentication & Authorization
+- WebSockets
+- Backend Architecture
+- Scalable Application Design
 
-### AI Technologies
-
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-
-![Google Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge&logo=google)
-
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
-
-![Python LLM](https://img.shields.io/badge/Python_LLM-yellow?style=for-the-badge&logo=python)
-
-![RAG](https://img.shields.io/badge/RAG_AI-purple?style=for-the-badge)
 
 ---
 
-## ⚡ AI Development Workflow
+## 🗄️ Databases & ORM
 
-- Building AI SaaS products with LLM-powered features
-- Integrating OpenAI and Gemini APIs into applications
-- Developing RAG pipelines for knowledge-based systems
-- Creating AI automation workflows using modern tools
-- Using AI coding assistants like Cursor to improve development productivity
+- PostgreSQL
+- MongoDB
+- MySQL
+- Supabase
+- Prisma ORM
 
----
-
-## 💳 SaaS & Production Engineering
-
-Experience building production applications with:
-
-- Authentication & authorization systems
-- Subscription-based SaaS platforms
-- Payment integrations using Stripe
-- RESTful APIs
-- Database architecture
-- Cloud deployment
 
 ---
 
-## ☁️ Cloud & DevOps
+# 🤖 AI & Generative AI
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+Building and integrating AI-powered features into web applications.
 
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+### AI Skills
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+- LLM API Integrations
+- OpenAI API Integration
+- Google Gemini API Integration
+- AI-powered SaaS Features
+- Prompt Engineering
+- Basic RAG (Retrieval-Augmented Generation)
+- AI Application Development
+
+
+### Currently Learning
+
+- Advanced RAG Systems
+- AI Agents
+- AI Automation Workflows
+- LLM Application Architecture
+
 
 ---
 
-## 🔧 Other Tools
+# 🚀 SaaS & Product Development
 
-![Stripe](https://img.shields.io/badge/Stripe-purple?style=for-the-badge&logo=stripe)
+Experience building production-level applications with:
 
-![Clerk](https://img.shields.io/badge/Clerk-black?style=for-the-badge)
+- AI-powered SaaS platforms
+- Subscription-based applications
+- Payment integrations
+- Multi-user applications
+- Role-based access control (RBAC)
+- Third-party API integrations
+- Production deployment
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
-![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge)
 
 ---
 
-## 📫 Contact
+# 💳 Integrations & Services
+
+- Stripe Payments
+- Clerk Authentication
+- JWT Authentication
+- HubSpot API
+- REST APIs
+- WebSockets
+
+
+---
+
+# ☁️ Cloud & DevOps
+
+- AWS
+- Vercel
+- Docker
+- CI/CD
+- Cloud Deployment
+
+
+---
+
+# 🧰 Development Tools
+
+- Git & GitHub
+- Cursor AI
+- VS Code
+- Postman
+- Linux
+
+
+---
+
+# 📚 Currently Exploring
+
+- Generative AI Application Development
+- LLM-powered Applications
+- RAG-based Systems
+- AI Product Development
+- AI Automation
+
+
+---
+
+# 📫 Contact
 
 📧 Email: faiqaarshad563@gmail.com
+
+---
+
+⭐ Building scalable software products by combining **Full Stack Engineering + AI capabilities**.
