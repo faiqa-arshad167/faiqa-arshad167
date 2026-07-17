@@ -25,6 +25,7 @@ My work focuses on combining **software engineering practices with Generative AI
 **Languages**
 - JavaScript
 - TypeScript
+- Python
 
 **Frameworks & Libraries**
 - React.js
@@ -33,6 +34,7 @@ My work focuses on combining **software engineering practices with Generative AI
 - Tailwind CSS
 - Shadcn UI
 - Material UI
+- Bootstrap
 
 
 ---
@@ -44,6 +46,7 @@ My work focuses on combining **software engineering practices with Generative AI
 - Express.js
 - Python
 - FastAPI
+- Nestjs
 
 **Backend Concepts**
 - REST API Development
@@ -52,6 +55,7 @@ My work focuses on combining **software engineering practices with Generative AI
 - WebSockets
 - Backend Architecture
 - Scalable Application Design
+- Socket.io
 
 
 ---
@@ -108,6 +112,7 @@ Experience building production-level applications with:
 - HubSpot API
 - REST APIs
 - WebSockets
+- NextAuth
 
 
 ---
@@ -130,6 +135,7 @@ Experience building production-level applications with:
 - VS Code
 - Postman
 - Linux
+- OpenAi
 
 
 ---
