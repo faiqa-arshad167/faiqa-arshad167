@@ -14,7 +14,7 @@ Experienced in developing production-ready applications using **React, Next.js, 
 
 I specialize in full-stack development, backend architecture, API development, cloud deployment, and integrating AI capabilities into modern software solutions.
 
-Currently exploring **Generative AI, LLM applications, RAG systems, and AI automation** to build smarter and more efficient products.
+My work focuses on combining **software engineering practices with Generative AI technologies** to build intelligent and efficient applications.
 
 ---
 
@@ -69,25 +69,18 @@ Currently exploring **Generative AI, LLM applications, RAG systems, and AI autom
 
 # 🤖 AI & Generative AI
 
-Building and integrating AI-powered features into web applications.
+Building AI-powered features and integrating modern AI technologies into software applications.
 
 ### AI Skills
 
-- LLM API Integrations
+- Large Language Model (LLM) Integrations
 - OpenAI API Integration
 - Google Gemini API Integration
 - AI-powered SaaS Features
 - Prompt Engineering
-- Basic RAG (Retrieval-Augmented Generation)
+- Retrieval-Augmented Generation (RAG)
 - AI Application Development
-
-
-### Currently Learning
-
-- Advanced RAG Systems
-- AI Agents
-- AI Automation Workflows
-- LLM Application Architecture
+- AI Workflow Integrations
 
 
 ---
@@ -100,7 +93,7 @@ Experience building production-level applications with:
 - Subscription-based applications
 - Payment integrations
 - Multi-user applications
-- Role-based access control (RBAC)
+- Role-Based Access Control (RBAC)
 - Third-party API integrations
 - Production deployment
 
@@ -141,13 +134,13 @@ Experience building production-level applications with:
 
 ---
 
-# 📚 Currently Exploring
+# 📌 Areas of Focus
 
-- Generative AI Application Development
-- LLM-powered Applications
-- RAG-based Systems
-- AI Product Development
-- AI Automation
+- Generative AI Applications
+- LLM-powered Software Solutions
+- RAG-based Knowledge Systems
+- AI-enhanced SaaS Products
+- Intelligent Automation Workflows
 
 
 ---
