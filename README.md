@@ -138,19 +138,6 @@ Experience building production-level applications with:
 - OpenAi
 
 
----
-
-# 📌 Areas of Focus
-
-- Generative AI Applications
-- LLM-powered Software Solutions
-- RAG-based Knowledge Systems
-- AI-enhanced SaaS Products
-- Intelligent Automation Workflows
-
-
----
-
 # 📫 Contact
 
 📧 Email: faiqaarshad563@gmail.com
